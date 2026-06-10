@@ -8,7 +8,5 @@ Public portfolio of 12-day AI Trainer Workshop. By Day 12: 6 daily notebooks + c
 - ✅ Hello-Gemini call working — see [Day1_Setup.ipynb](Day1_Setup.ipynb)
 - <img width="1253" height="870" alt="image" src="https://github.com/user-attachments/assets/1a28234b-3b3d-422d-8cfe-f0e9c6674cd3" />
 - 4-tool comparison matrix from Lab 1A: see screenshot below
+- <img width="1288" height="641" alt="image" src="https://github.com/user-attachments/assets/2cc93353-ff54-4c42-82bd-50e22a4f432c" />
 
-
-![Gemini first call](<img width="1288" height="641" alt="image" src="https://github.com/user-attachments/assets/2cc93353-ff54-4c42-82bd-50e22a4f432c" />
-)
