@@ -10,4 +10,5 @@ Public portfolio of 12-day AI Trainer Workshop. By Day 12: 6 daily notebooks + c
 - 4-tool comparison matrix from Lab 1A: see screenshot below
 
 
-![Gemini first call](gemini_first_call.png)
+![Gemini first call](<img width="1288" height="641" alt="image" src="https://github.com/user-attachments/assets/2cc93353-ff54-4c42-82bd-50e22a4f432c" />
+)
